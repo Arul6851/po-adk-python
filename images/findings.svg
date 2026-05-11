@@ -1,0 +1,50 @@
+<svg width="100%" viewBox="0 0 680 420" xmlns="http://www.w3.org/2000/svg" style="background:#1a1f2e;border-radius:8px;padding:10px">
+<style>
+text{font-family:'Segoe UI',system-ui,sans-serif;fill:#e2e8f0}
+.th{font-size:14px;font-weight:600}
+.ts{font-size:12px;fill:#94a3b8}
+</style>
+
+<text class="th" x="340" y="24" text-anchor="middle">Demo: Lincoln Bednar, 31yo — readmission risk: HIGH</text>
+<text class="ts" x="340" y="44" text-anchor="middle">New-onset T2DM, resolved AKI, new HTN, severe iron-deficiency anemia</text>
+
+<rect x="40" y="64" width="600" height="24" rx="4" fill="#501313" stroke="#e24b4a" stroke-width="0.5"/>
+<text class="th" x="340" y="80" text-anchor="middle" fill="#f09595">Critical findings (RED) — must address before discharge</text>
+
+<rect x="40" y="96" width="600" height="36" rx="4" fill="#1a2332" stroke="#2d3748" stroke-width="0.5"/>
+<circle cx="60" cy="114" r="6" fill="#e24b4a"/>
+<text class="ts" x="76" y="118" fill="#e2e8f0">Metformin prescribed despite recent AKI — requires eGFR verification</text>
+
+<rect x="40" y="140" width="600" height="36" rx="4" fill="#1a2332" stroke="#2d3748" stroke-width="0.5"/>
+<circle cx="60" cy="158" r="6" fill="#e24b4a"/>
+<text class="ts" x="76" y="162" fill="#e2e8f0">New complex insulin regimen — no documented patient education</text>
+
+<rect x="40" y="184" width="600" height="36" rx="4" fill="#1a2332" stroke="#2d3748" stroke-width="0.5"/>
+<circle cx="60" cy="202" r="6" fill="#e24b4a"/>
+<text class="ts" x="76" y="206" fill="#e2e8f0">No PCP follow-up scheduled within 7 days of discharge</text>
+
+<rect x="40" y="228" width="600" height="36" rx="4" fill="#1a2332" stroke="#2d3748" stroke-width="0.5"/>
+<circle cx="60" cy="246" r="6" fill="#e24b4a"/>
+<text class="ts" x="76" y="250" fill="#e2e8f0">Positive stool guaiac — colonoscopy not scheduled (potential GI bleed)</text>
+
+<rect x="40" y="280" width="600" height="24" rx="4" fill="#412402" stroke="#ef9f27" stroke-width="0.5"/>
+<text class="th" x="340" y="296" text-anchor="middle" fill="#fac775">Important findings (YELLOW) — needs attention within 1-2 weeks</text>
+
+<rect x="40" y="312" width="290" height="36" rx="4" fill="#1a2332" stroke="#2d3748" stroke-width="0.5"/>
+<circle cx="60" cy="330" r="6" fill="#ecc94b"/>
+<text class="ts" x="76" y="334" fill="#e2e8f0">4/5 IV iron doses completed</text>
+
+<rect x="350" y="312" width="290" height="36" rx="4" fill="#1a2332" stroke="#2d3748" stroke-width="0.5"/>
+<circle cx="370" cy="330" r="6" fill="#ecc94b"/>
+<text class="ts" x="386" y="334" fill="#e2e8f0">PHQ-9 elevated — no MH referral</text>
+
+<rect x="40" y="356" width="290" height="36" rx="4" fill="#1a2332" stroke="#2d3748" stroke-width="0.5"/>
+<circle cx="60" cy="374" r="6" fill="#ecc94b"/>
+<text class="ts" x="76" y="378" fill="#e2e8f0">No nephrology follow-up post-AKI</text>
+
+<rect x="350" y="356" width="290" height="36" rx="4" fill="#1a2332" stroke="#2d3748" stroke-width="0.5"/>
+<circle cx="370" cy="374" r="6" fill="#ecc94b"/>
+<text class="ts" x="386" y="378" fill="#e2e8f0">No ophthalmology for new DM</text>
+
+<text class="ts" x="340" y="410" text-anchor="middle" fill="#94a3b8">Manual review: 45-60 minutes  |  Discharge Guardian: ~60 seconds</text>
+</svg>
